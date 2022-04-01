@@ -1,0 +1,15 @@
+body {
+  background-color: aqua;
+  color: darkkhaki;
+  font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+  font-weight: 100;
+}
+
+div {
+  font-weight: 400;
+  font-family: "Roboto", sans-serif;
+  font-size: 80px;
+}
